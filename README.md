@@ -39,6 +39,7 @@
 <img align="left" width="24px" height="24px" alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 
 <br />
+<br />
 
 ## Socials
 [<img align="left" width="24px" height="24px" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/petersenmikael/)
