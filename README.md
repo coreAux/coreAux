@@ -10,12 +10,14 @@
 # Hej GitHub 🐙
 
 🇸🇪 Born and raised in Sweden<br/>
-🇳🇱 Currently residing in Amsterdam<br/>
-👨🏼 34<br/>
+🇳🇱 Residing in Amsterdam<br/>
 🏳️‍🌈 He/him<br/>
+👨🏼 34 yrs old<br/>
+👨🏼‍💻 Fullstack (JS)<br/>
 🔗 [mickey.studio](https://mickey.studio/)<br/>
 
 ## Cool icons
+<img align="left" width="24px" height="24px" alt="Next" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" width="24px" height="24px" alt="Svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
 <img align="left" width="24px" height="24px" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" width="24px" height="24px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -33,5 +35,4 @@
 
 ## Socials
 [<img align="left" width="24px" height="24px" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/petersenmikael/)
-[<img align="left" width="24px" height="24px" alt="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/hejmikael)
-[<img align="left" width="24px" height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />](https://www.facebook.com/Mickey-Studio-106188708821609/)
+<!-- [<img align="left" width="24px" height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />](https://www.facebook.com/Mickey-Studio-106188708821609/) -->
