@@ -12,7 +12,7 @@
 🇸🇪 Born and raised in Sweden<br/>
 🇳🇱 Residing in Amsterdam<br/>
 🏳️‍🌈 He/him<br/>
-👨🏼 34 yrs old<br/>
+👨🏼 35 yrs old<br/>
 👨🏼‍💻 Fullstack (JS)<br/>
 🔗 [mickey.studio](https://mickey.studio/)<br/>
 
