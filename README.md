@@ -30,8 +30,10 @@
 
 <br />
 <br />
-<br />
 
 ## Socials
 [<img align="left" width="24px" height="24px" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/petersenmikael/)
 [<img align="left" width="24px" height="24px" alt="Bluesky" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" />](https://bsky.app/profile/mickey.studio)
+
+<br />
+<br />
