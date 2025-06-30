@@ -11,14 +11,15 @@
 
 🇸🇪 Born and raised in Sweden<br/>
 🇳🇱 Residing in Amsterdam<br/>
-🏳️‍🌈 He/him<br/>
-👨🏼 35 yrs old<br/>
+🏳️‍🌈 He / him<br/>
 👨🏼‍💻 Fullstack (JS)<br/>
 🔗 [mickey.studio](https://mickey.studio/)<br/>
-🔗 [theravecommission.com](https://theravecommission.com/)<br/>
+🔗 [theravecommission.com](https://theravecommission.com/)
+
+<br/>
 
 ## Cool icons
-<img align="left" width="24px" height="24px" alt="Next" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" width="24px" height="24px" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" width="24px" height="24px" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" width="24px" height="24px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" width="24px" height="24px" alt="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -29,8 +30,8 @@
 
 <br />
 <br />
+<br />
 
 ## Socials
 [<img align="left" width="24px" height="24px" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/petersenmikael/)
 [<img align="left" width="24px" height="24px" alt="Bluesky" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" />](https://bsky.app/profile/mickey.studio)
-<!-- [<img align="left" width="24px" height="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />](https://www.facebook.com/Mickey-Studio-106188708821609/) -->
